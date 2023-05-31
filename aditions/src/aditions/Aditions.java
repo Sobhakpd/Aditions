@@ -9,6 +9,8 @@ public class Aditions {
 		int result;
 		result =num1+num2+num3;
 		System.out.println("Addition of two number is :" +result);
+		int mul =num1*num2;
+		System.out.println("multiplication of two numbers : "+mul);		
 
 	}
 
